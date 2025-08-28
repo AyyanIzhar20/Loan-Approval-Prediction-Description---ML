@@ -50,4 +50,4 @@ Since accuracy is misleading on imbalanced datasets, the following metrics were 
 
 
 # Run the notebook
-jupyter notebook Loan_Approval_Prediction.ipynb
+jupyter notebook Task3.ipynb
